@@ -7,12 +7,12 @@
 * Create new providers: [`/new`](https://internetsemlimites.herokuapp.com/new/)
 * Auto generated `README.md` ([main repository](https://github.com/InternetSemLimites/InternetSemLimites)): [`/README.md`](https://internetsemlimites.herokuapp.com/README.md)
 * API (JSON data):
-* * [All providers `/`](https://internetsemlimites.herokuapp.com/)
-* * [Hall of Fame `/fame/`](https://internetsemlimites.herokuapp.com/fame/)
-* * [Hall of Shame `/shame/`](https://internetsemlimites.herokuapp.com/shame/)
-* * [By state `/<state abbreviation>/`](https://internetsemlimites.herokuapp.com/sc/)
-* * [Hall of Fame by region `/<state abbreviation>/fame/`](https://internetsemlimites.herokuapp.com/sc/fame/) 
-* * [Hall of Shame by region `/<state abbreviation>/shame/`](https://internetsemlimites.herokuapp.com/sc/shame/)
+  * [All providers `/`](https://internetsemlimites.herokuapp.com/)
+  * [Hall of Fame `/fame/`](https://internetsemlimites.herokuapp.com/fame/)
+  * [Hall of Shame `/shame/`](https://internetsemlimites.herokuapp.com/shame/)
+  * [By state `/<state abbreviation>/`](https://internetsemlimites.herokuapp.com/sc/)
+  * [Hall of Fame by region `/<state abbreviation>/fame/`](https://internetsemlimites.herokuapp.com/sc/fame/) 
+  * [Hall of Shame by region `/<state abbreviation>/shame/`](https://internetsemlimites.herokuapp.com/sc/shame/)
 
 ## Install
 
